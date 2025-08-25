@@ -3,7 +3,7 @@
 🧑‍🎓I am currently a student enrolled at Jones County High School in Gray, Georgia . I am a Junior in my last year of programming, I am looking to go to a college that provides a computer science degree.
 <div align=left>
   <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<a href= "https://playcode.io/" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
   <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
