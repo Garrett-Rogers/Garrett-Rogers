@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7211F7&width=435&lines=Hi+there%2C+I'm+Garrett+Rogers" alt="Typing SVG" /></a>
 <br>
-🧑‍🎓I am currently a student enrolled at Jones County High School in Gray, Georgia . I am a Junior in my last year of programming, I am looking to go to a college that provides a computer science degree.
+🧑‍🎓I am currently a student enrolled at Jones County High School in Gray, Georgia. I am a Junior in my last year of programming, I am looking to go to a college that provides a computer science degree.
 <div align=left>
   <br>
 <a href= "https://playcode.io/" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
@@ -25,6 +25,16 @@
 </div>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Garrett-Rogers&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
+# Classes I've done so far
+1. Sociology
+2. Psychology
+3. Current issues
+4. 9th grade literature
+5. American lit
+6. world history
+7. Precalcius (ongoing)
+8. Entreprenuership
+9. Programming
 
 
 
