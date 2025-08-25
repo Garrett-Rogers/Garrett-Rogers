@@ -1,4 +1,5 @@
-# Hi there, I'm Garrett Rogers 🌟
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7211F7&width=435&lines=Hi+there%2C+I'm+Garrett+Rogers" alt="Typing SVG" /></a>
+<br>
 🧑‍🎓I am currently a student enrolled at Jones County High School in Gray, Georgia . I am a Junior in my last year of programming, I am looking to go to a college that provides a computer science degree.
 <div align=left>
   <br>
