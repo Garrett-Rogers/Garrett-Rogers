@@ -5,11 +5,7 @@
   <br>
 <a href= "https://playcode.io/" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
   <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<a href = "https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></a>
   <img width="12" />
 </div>
 
@@ -29,5 +25,7 @@
 </div>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Garrett-Rogers&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
+
+
 
 
