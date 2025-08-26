@@ -25,16 +25,7 @@
 </div>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Garrett-Rogers&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
-# Classes I've done so far
-1. Sociology
-2. Psychology
-3. Current issues
-4. 9th grade literature
-5. American lit
-6. world history
-7. Precalcius (ongoing)
-8. Entreprenuership
-9. Programming
+<a href="https://codehs.com/student/4350126/section/563196/assignment/142373685"><img src="https://uploads.codehs.com/49b75f393bbfd46740eb7bf88cd8b632" height="45" alt="Codehs Karel"/></a>
 
 
 
