@@ -25,6 +25,7 @@
 </div>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Garrett-Rogers&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
+
 <br>
 <a href="https://codehs.com/student/4350126/section/563196/assignment/142373685"><img src="https://uploads.codehs.com/49b75f393bbfd46740eb7bf88cd8b632" height="45" alt="Codehs Karel"/></a>
 </br>
